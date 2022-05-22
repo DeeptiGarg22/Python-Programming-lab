@@ -1,0 +1,9 @@
+y={"Ayush":1,"Deepti":2}
+x=y.keys()
+z=y.values()
+w=y.items()
+print(x)
+y["color"]="red"
+print(x)
+print(z)
+print(w)
